@@ -1,2 +1,0 @@
-flask
-delta-rest-client==1.0.12
